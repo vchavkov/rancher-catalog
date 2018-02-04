@@ -1,0 +1,8 @@
+name: Cloud9
+description: |
+  Cloud 9 (without terminal) 
+version: 1.0-k8s1
+category: Agile
+maintainer: "Vladimir Chavkov <vchavkov@chavkov.com>"
+license: 
+projectURL: https://github.com/rawmind0/cloud9-sdk
